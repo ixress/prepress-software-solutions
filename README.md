@@ -42,19 +42,20 @@ Choose your operating system below to download the latest stable release of the 
 ### 💻 Windows
 | Format | Architecture | Download Link | Description |
 | :--- | :--- | :--- | :--- |
-| **Setup Installer (.exe)** | 64-bit | [📥 Download Installer](https://github.com/byHose/ixress-software-downloads/releases/download/windows/iXress.Prepress.Software.Suite.Setup.1.0.0.exe) | Standard Windows Setup Package |
+| **Setup Installer (.exe)** | 64-bit | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite.Setup.1.0.0.exe) | Standard Windows Setup Package |
 
 ### 🍎 macOS
 | Format | Architecture | Download Link | Description |
 | :--- | :--- | :--- | :--- |
-| **App Bundle (.dmg)** | Intel / Apple Silicon | [📥 Download Installer](https://github.com/byHose/ixress-software-downloads/releases/download/windows/iXress.Prepress.Software.Suite.Setup.1.0.0.exe) *(Temp Win Link)* | Native macOS Package |
+| **App Bundle (.dmg)** | Intel CPU | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-1.0.0.dmg) | Native macOS Package |
+| **App Bundle (-arm64.dmg)** | Apple Silicon | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-1.0.0-arm64.dmg) | Native macOS Package |
 
 ### 🐧 Linux
 | Format | Distribution | Download Link | Description |
 | :--- | :--- | :--- | :--- |
-| **Debian Package (.deb)** | Ubuntu, Debian, Linux Mint | [📥 Download .deb](https://github.com/byHose/ixress-software-downloads/releases/download/windows/ixress-prepress-software-suite_1.0.0_amd64.deb) | Standard Debian-based package |
-| **RPM Package (.rpm)** | Rocky Linux, AlmaLinux, Fedora | [📥 Download .rpm](https://github.com/byHose/ixress-software-downloads/releases/download/windows/ixress-prepress-software-suite-1.0.0.x86_64.rpm) | RHEL-compatible package |
-| **Pacman Package (.pacman)** | CachyOS, Arch Linux, Manjaro | [📥 Download .pacman](https://github.com/byHose/ixress-software-downloads/releases/download/windows/ixress-prepress-software-suite-1.0.0.pacman) | Arch-compatible optimized package |
+| **Debian Package (.deb)** | Ubuntu, Debian, Linux Mint | [📥 Download .deb](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-prepress-software-suite_1.0.0_amd64.deb) | Standard Debian-based package |
+| **RPM Package (.rpm)** | Rocky Linux, AlmaLinux, Fedora | [📥 Download .rpm](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-prepress-software-suite-1.0.0.x86_64.rpm) | RHEL-compatible package |
+| **Pacman Package (.pacman)** | CachyOS, Arch Linux, Manjaro | [📥 Download .pacman](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-prepress-software-suite-1.0.0.pacman) | Arch-compatible optimized package |
 
 ---
 
@@ -63,7 +64,8 @@ Choose your operating system below to download the latest stable release of the 
 *   **Windows:** Windows 10 or 11 (64-bit)
 *   **macOS:** macOS Catalina (10.15) or later (x64 / ARM64)
 *   **Linux:** Ubuntu 22.04+, Rocky Linux 9+, AlmaLinux 9+, or CachyOS/Arch Linux
-*   **Memory:** 4 GB RAM minimum (8 GB recommended for heavy PDF operations)
+*   **Memory:** 4 GB RAM minimum (8 GB+ recommended for heavy PDF operations)
+*   **GPU Vram:** 4 GB RAM minimum (8 GB+ recommended for heavy PDF operations)
 
 ---
 
@@ -73,7 +75,7 @@ iXress Prepress Software Suite is commercial software offering flexible licensin
 
 *   🌐 **Official Website:** [https://ixress.com](https://ixress.com)
 *   📧 **Contact Email:** [info@ozsahiner.com](mailto:info@ozsahiner.com)
-*   🏢 **Developer Company:** iXress Software Solutions / Özşahiner
+*   🏢 **Developer Company:** iXress Software Solutions
 
 ---
 
