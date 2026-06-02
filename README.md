@@ -81,7 +81,7 @@ iXress Prepress Software Suite is commercial software offering flexible licensin
 
 ---
 
-*  Kodak Preps and Pandora are registered trademarks of Eastman Kodak Compan.
+*  Kodak Preps and Pandora are registered trademarks of Eastman Kodak Company.
 
 ---
 
