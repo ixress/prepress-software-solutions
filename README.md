@@ -18,9 +18,11 @@
 
 ## 🌟 About iXress
 
+An alternative option that combines Kodak Preps* and Pandora* in a single program.
+
 **iXress Prepress Software Suite** redefines prepress layout automation and imposition for modern print production. Developed with **30+ years of printing industry experience**, iXress is designed to eliminate traditional operational limits, offering a super-fast, robust, and highly intuitive platform for prepress teams worldwide.
 
-Whether you are working in **Offset, Flexo, Gravure, Label, Tin/Aluminum, or Digital Printing**, iXress automates your layouts in seconds, preventing expensive misprints and significantly boosting profitability.
+Whether you are working in **Offset, Flexo, Gravure, Screen Printing, Digital & Large‑Format Prepress Industries—covering books, magazines, flat‑work, packaging, labels, credit cards, tin, plastics and aluminum containers, flexible substrates... fast montages, variable‑data projects with integrated color management and secure‑print features.**, iXress automates your layouts in seconds, preventing expensive misprints and significantly boosting profitability.
 
 ---
 
@@ -78,6 +80,8 @@ iXress Prepress Software Suite is commercial software offering flexible licensin
 *   🏢 **Developer Company:** iXress Software Solutions
 
 ---
+
+*  Kodak Preps and Pandora are registered trademarks of Kodak Corporation.
 
 <p align="center">
   <sub>Copyright © 2026 iXress Software Solutions. All rights reserved.</sub>
