@@ -18,12 +18,13 @@
 
 ## 🌟 About iXress
 
-An alternative option that combines Kodak Preps* and Pandora* in a single program.
+**iXress Prepress Software Suite** Next-generation AI-powered prepress imposition software developed with **30+ years of experience in the printing industry**. Packed with smart features, fully supporting the latest Mac, PC and Linux platforms. Advanced media (plate, sheet & web/roll), marks, color management and much more...
 
-**iXress Prepress Software Suite** redefines prepress layout automation and imposition for modern print production. Developed with **30+ years of printing industry experience**, iXress is designed to eliminate traditional operational limits, offering a super-fast, robust, and highly intuitive platform for prepress teams worldwide.
+For all prepress sectors including Offset, Flexo, Letterpress, Gravure (Intaglio), Screen Printing, Digital & Large Format Printers. Next-generation prepress software for books, magazines, box, all types of packaging, labels, credit cards, tin-plastic-aluminum containers, IML printing... featuring fast imposition, advanced integrated creep compensation and color management, with secure print features for variable data projects.
 
-Whether you are working in **Offset, Flexo, Gravure, Screen Printing, Digital & Large‑Format Prepress Industries—covering books, magazines, flat‑work, packaging, labels, credit cards, tin, plastics and aluminum containers, flexible substrates... fast montages, variable‑data projects with integrated color management and secure‑print features.**, iXress automates your layouts in seconds, preventing expensive misprints and significantly boosting profitability.
-
+*   For book, box, label, packaging... imposition
+*   Free-for-life option available!
+*   
 ---
 
 ## 🚀 Key Features
@@ -78,10 +79,6 @@ iXress Prepress Software Suite is commercial software offering flexible licensin
 *   🌐 **Official Website:** [https://ixress.com](https://ixress.com)
 *   📧 **Contact Email:** [info@ozsahiner.com](mailto:info@ozsahiner.com)
 *   🏢 **Developer Company:** iXress Software Solutions
-
----
-
-*  Kodak Preps and Pandora are registered trademarks of Eastman Kodak Company.
 
 ---
 
