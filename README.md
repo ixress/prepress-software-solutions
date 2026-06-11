@@ -24,12 +24,12 @@ For all prepress sectors including Offset, Flexo, Letterpress, Gravure (Intaglio
 
 *   For book, box, label, packaging... imposition
 *   Free-for-life option available!
-*   
+
 ---
 
 ## 🚀 Key Features
 
-*   ⚡ **250x Faster Montage:** Achieve flawless impositions and montages in **less than 7 seconds** instead of spending 30+ minutes manually.
+*   ⚡ **25x Faster Montage (Compared to traditional methods):** Achieve flawless impositions and montages in **less than 7 seconds** instead of spending 30+ minutes manually.
 *   🎨 **Zero Color Loss:** Advanced integrated color management and direction replication to prevent color deviations and image quality losses.
 *   📏 **Precise Smart Marks:** Complete mark management (center, repeat, edge, and custom calibration marks) compatible with cutting-edge printing machines.
 *   📁 **CFF2 Independence:** Work directly and dynamically on PDF die lines without requiring CFF2 files, or enjoy full CFF2 imposition capabilities if you prefer.
