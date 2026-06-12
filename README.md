@@ -18,7 +18,10 @@
 
 ## 🌟 About iXress
 
-**iXress Prepress Software Suite** Next-generation AI-powered prepress imposition software developed with **30+ years of experience in the printing industry**. Packed with smart features, fully supporting the latest Mac, PC and Linux platforms. Advanced media (plate, sheet & web/roll), marks, color management and much more...
+**All-in-One Layout Automation Software**
+An alternative solution that consolidates imposition & step-and-repeat & box work created with multiple separate programs into a single software platform
+
+**iXress Prepress Software Suite** Next-generation AI-powered prepress imposition software developed with 30+ years of experience in the printing industry. Packed with smart features, fully supporting the latest Mac, PC and Linux platforms. Advanced media (plate, sheet & web/roll), marks, color management and much more...
 
 For all prepress sectors including Offset, Flexo, Letterpress, Gravure (Intaglio), Screen Printing, Digital & Large Format Printers. Next-generation prepress software for books, magazines, box, all types of packaging, labels, credit cards, tin-plastic-aluminum containers, IML printing... featuring fast imposition, advanced integrated creep compensation and color management, with secure print features for variable data projects.
 
@@ -56,9 +59,11 @@ Choose your operating system below to download the latest stable release of the 
 ### 🐧 Linux
 | Format | Distribution | Download Link | Description |
 | :--- | :--- | :--- | :--- |
-| **Debian Package (.deb)** | Ubuntu, Debian, Linux Mint | [📥 Download .deb](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-prepress-software-suite_1.0.0_amd64.deb) | Standard Debian-based package |
-| **RPM Package (.rpm)** | Rocky Linux, AlmaLinux, Fedora | [📥 Download .rpm](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-prepress-software-suite-1.0.0.x86_64.rpm) | RHEL-compatible package |
-| **Pacman Package (.pacman)** | CachyOS, Arch Linux, Manjaro | [📥 Download .pacman](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-prepress-software-suite-1.0.0.pacman) | Arch-compatible optimized package |
+| **Debian Package (.deb)** | Ubuntu, Debian, Linux Mint | [📥 Download .deb](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software_26.1.3_amd64.deb) | Standard Debian-based package |
+| **RPM Package (.rpm)** | Rocky Linux, AlmaLinux, Fedora | [📥 Download .rpm](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-26.1.3.x86_64.rpm) | RHEL-compatible package |
+| **Pacman Package (.pacman)** | CachyOS, Arch Linux, Manjaro | [📥 Download .pacman](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-26.1.3.pacman) | Arch-compatible optimized package |
+| **Snap Package (.snap)** | CachyOS, Arch Linux, Manjaro | [📥 Download .pacman](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software_26.1.3_amd64.snap) | Arch-compatible optimized package |
+| **Flat Package (.AppImage)** | CachyOS, Arch Linux, Manjaro | [📥 Download .pacman](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-26.1.3.AppImage) | Arch-compatible optimized package |
 
 ---
 
