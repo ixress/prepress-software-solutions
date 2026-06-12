@@ -48,13 +48,13 @@ Choose your operating system below to download the latest stable release of the 
 ### 💻 Windows
 | Format | Architecture | Download Link | Description |
 | :--- | :--- | :--- | :--- |
-| **Setup Installer (.exe)** | 64-bit | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite.Setup.1.0.0.exe) | Standard Windows Setup Package |
+| **Setup Installer (.exe)** | 64-bit | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite.Setup.26.1.3.exe) | Standard Windows Setup Package |
 
 ### 🍎 macOS
 | Format | Architecture | Download Link | Description |
 | :--- | :--- | :--- | :--- |
-| **App Bundle (.dmg)** | Intel CPU | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-1.0.0.dmg) | Native macOS Package |
-| **App Bundle (-arm64.dmg)** | Apple Silicon | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-1.0.0-arm64.dmg) | Native macOS Package |
+| **App Bundle (.dmg)** | Intel CPU | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-26.1.3.dmg) | Native macOS Package |
+| **App Bundle (-arm64.dmg)** | Apple Silicon | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-26.1.3-arm64.dmg) | Native macOS Package |
 
 ### 🐧 Linux
 | Format | Distribution | Download Link | Description |
