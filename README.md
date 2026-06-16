@@ -87,6 +87,29 @@ iXress Prepress Software Suite is commercial software offering flexible licensin
 
 ---
 
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-01.png" width="48%" alt="iXress Screenshot 1">
+  &nbsp;
+  <img src="https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-02.png" width="48%" alt="iXress Screenshot 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-03.png" width="48%" alt="iXress Screenshot 3">
+  &nbsp;
+  <img src="https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-04.png" width="48%" alt="iXress Screenshot 4">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-05.png" width="48%" alt="iXress Screenshot 5">
+  &nbsp;
+  <img src="https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-06.png" width="48%" alt="iXress Screenshot 6">
+</p>
+
+---
 <p align="center">
   <sub>Copyright © 2026 iXress Software Solutions. All rights reserved.</sub>
 </p>
