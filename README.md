@@ -48,13 +48,13 @@ Choose your operating system below to download the latest stable release of the 
 ### 💻 Windows
 | Format | Architecture | Download Link | Description |
 | :--- | :--- | :--- | :--- |
-| **Setup Installer (.exe)** | 64-bit | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite.Setup.26.1.3.exe) | Standard Windows Setup Package |
+| **Setup Installer (.exe)** | 64-bit | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.-.Prepress.Suite.Setup.26.1.3.exe) | Standard Windows Setup Package |
 
 ### 🍎 macOS
 | Format | Architecture | Download Link | Description |
 | :--- | :--- | :--- | :--- |
-| **App Bundle (.dmg)** | Intel CPU | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-26.1.3.dmg) | Native macOS Package |
-| **App Bundle (-arm64.dmg)** | Apple Silicon | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-26.1.3-arm64.dmg) | Native macOS Package |
+| **App Bundle (.dmg)** | Intel CPU | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.-.Prepress.Suite-26.1.3.dmg) | Native macOS Package |
+| **App Bundle (-arm64.dmg)** | Apple Silicon | [📥 Download Installer](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.-.Prepress.Suite-26.1.3-arm64.dmg) | Native macOS Package |
 
 ### 🐧 Linux
 | Format | Distribution | Download Link | Description |
@@ -63,7 +63,7 @@ Choose your operating system below to download the latest stable release of the 
 | **Snap Package (.snap)** | CachyOS, Arch Linux, Manjaro | [📥 Download .snap](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software_26.1.3_amd64.snap) | Arch-compatible optimized package |
 | **RPM Package (.rpm)** | Rocky Linux, AlmaLinux, Fedora | [📥 Download .rpm](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-26.1.3.x86_64.rpm) | RHEL-compatible package |
 | **Pacman Package (.pacman)** | CachyOS, Arch Linux, Manjaro | [📥 Download .pacman](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/ixress-layout-automation-software-26.1.3.pacman) | Arch-compatible optimized package |
-| **Flat Package (.AppImage)** | CachyOS, Arch Linux, Manjaro | [📥 Download .AppImage](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.Prepress.Software.Suite-26.1.3.AppImage) | Arch-compatible optimized package |
+| **Flat Package (.AppImage)** | CachyOS, Arch Linux, Manjaro | [📥 Download .AppImage](https://github.com/ixress/prepress-software-solutions/releases/download/Prepress/iXress.-.Prepress.Suite-26.1.3.AppImage) | Arch-compatible optimized package |
 
 ---
 
@@ -84,8 +84,6 @@ iXress Prepress Software Suite is commercial software offering flexible licensin
 *   🌐 **Official Website:** [https://ixress.com](https://ixress.com)
 *   📧 **Contact Email:** [info@ozsahiner.com](mailto:info@ozsahiner.com)
 *   🏢 **Developer Company:** iXress Software Solutions
-
----
 
 ---
 
